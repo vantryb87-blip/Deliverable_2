@@ -1,0 +1,96 @@
+* 2b330a5 - Amalie Fyhn, 69 minutes ago : PosixPath-error is back
+* 25401e6 - Amalie Fyhn, 74 minutes ago : PosixPath gone, wrong argument - errror next
+* 47927e7 - Amalie Fyhn, 86 minutes ago : Failed attempt at fixing PosixPath -error
+* 79210e1 - Amalie Fyhn, 2 days ago : Failed attempt at running task 5
+* b5b75cb - Amalie Fyhn, 2 days ago : Task 1: Added a typehint
+* 9f67792 - Amalie Fyhn, 2 days ago : Task 3: Added discussion in markdown
+* 19a17e6 - Amalie Fyhn, 2 days ago : Task 3: Translated to english
+* 6efdc56 - Amalie Fyhn, 2 days ago : Task 5 - Finished?
+* 8f62de7 - Amalie Fyhn, 2 days ago : Task 5 - Plan for reports
+* f682b23 - Amalie Fyhn, 2 days ago : Task 3: Added a typehint
+*   7dd1783 - Amalie Fyhn, 2 days ago : Merge branch 'main' of https://github.com/vantryb87-blip/Deliverable_2
+|\  
+| * e879fcf - Vanessa Tryba, 2 days ago : smal changes in task 4
+* | fe8eeb2 - Amalie Fyhn, 2 days ago : Task 5 - fixed 5 + written notes for 6
+|/  
+* 79af874 - Vanessa Tryba, 2 days ago : disscussion task 4
+* f172c8d - Vanessa Tryba, 2 days ago : removing changes from task 4
+* af2eaed - Vanessa Tryba, 2 days ago : small changes on function 4
+* aee0730 - Amalie Fyhn, 2 days ago : Task 1 -Correction in regex
+* 36cddcf - Amalie Fyhn, 2 days ago : Corrected the regex-line
+* 4fb897e - Amalie Fyhn, 2 days ago : Task 5 - done 3,4,5
+* 870c3e8 - Amalie Fyhn, 2 days ago : Task 5 - done 1 and 2
+* f5e9af1 - Amalie Fyhn, 2 days ago : Task 1-4 added
+* f69e7cc - Amalie Fyhn, 2 days ago : Tiny correction
+* a3f9a13 - Amalie Fyhn, 2 days ago : Added markdown
+* d5cca88 - Amalie Fyhn, 3 days ago : Added the imports
+* c3a0395 - Amalie Fyhn, 3 days ago : Fixed robust_reader_function
+* e3befe1 - Amalie Fyhn, 4 days ago : Small correction
+* 5e72328 - Amalie Fyhn, 4 days ago : Second function finished
+* f4fb31b - Amalie Fyhn, 4 days ago : Corrected the first function
+* d6ae3fd - Amalie Fyhn, 4 days ago : The first function done?
+* 56cb6cf - Amalie Fyhn, 4 days ago : Planned the rest of the task
+* b8c3ed7 - Amalie Fyhn, 4 days ago : Remowes outliers?
+* b53e8db - Amalie Fyhn, 4 days ago : Created 1D array + my and sigma
+* 3d4ae2f - Amalie Fyhn, 4 days ago : Rough plan
+* 41c1c7f - Amalie Fyhn, 4 days ago : Defined the functions
+* 4f441ff - Amalie Fyhn, 7 days ago : Added notes + finishing tuch to function 2
+* 1b7c983 - Amalie Fyhn, 7 days ago : translated comments to english
+*   0ebe909 - Amalie Fyhn, 7 days ago : Merge branch 'main' of https://github.com/vantryb87-blip/Deliverable_2
+|\  
+| *   4f5c775 - Vanessa Tryba, 7 days ago : Merge branch 'main' of https://github.com/vantryb87-blip/Deliverable_2
+| |\  
+| * | a6de245 - Vanessa Tryba, 7 days ago : task 4 functions 1st draft
+* | | 82471e7 - Amalie Fyhn, 7 days ago : Function 2 done?
+| |/  
+|/|   
+* | 71dac83 - Amalie Fyhn, 7 days ago : Rough plan for filtering approved transactions
+* | 8a42727 - Amalie Fyhn, 7 days ago : log_parser_function filter out non-valid sales
+|/  
+*   55a0ba1 - Vanessa Tryba, 7 days ago : Merge branch 'main' of https://github.com/vantryb87-blip/Deliverable_2
+|\  
+| * 0296a69 - Amalie Fyhn, 7 days ago : Filtering gone wrong
+| * 4a7f1a0 - Amalie Fyhn, 7 days ago : Work on regular expessions
+| *   3cd4eb4 - Amalie Fyhn, 7 days ago : Merge branch 'main' of https://github.com/vantryb87-blip/Deliverable_2
+| |\  
+| * | 1ad2121 - Amalie Fyhn, 7 days ago : Attempt at  regular expressions
+* | | 407f10a - Vanessa Tryba, 7 days ago : description of the functions
+| |/  
+|/|   
+* | 67fd87d - Vanessa Tryba, 7 days ago : Function 2 done and tested
+* | a26b78c - Vanessa Tryba, 7 days ago : Merge branch 'main' of https://github.com/vantryb87-blip/Deliverable_2
+|\| 
+| * 4386e98 - Amalie Fyhn, 7 days ago : still not working
+| * e1f1f62 - Amalie Fyhn, 7 days ago : Error-message-buffet
+| * d5c1dc6 - Amalie Fyhn, 7 days ago : Added two comments
+* | 68c391e - Vanessa Tryba, 7 days ago : start på  funksjon 2
+|/  
+*   3fee491 - Vanessa Tryba, 7 days ago : Merge branch 'main' of https://github.com/vantryb87-blip/Deliverable_2
+|\  
+| * e8d21f1 - Amalie Fyhn, 7 days ago : Returns (file_text_content, encoding_used)
+* | 7211dd5 - Vanessa Tryba, 7 days ago : try out off the 1. function
+|/  
+*   6fec250 - Vanessa Tryba, 7 days ago : Merge branch 'main' of https://github.com/vantryb87-blip/Deliverable_2
+|\  
+| * 7b35016 - Amalie Fyhn, 7 days ago : Checks encoding
+* | 6951ffd - Vanessa Tryba, 7 days ago : more for task 2
+|/  
+*   5d0d258 - Vanessa Tryba, 7 days ago : Merge branch 'main' of https://github.com/vantryb87-blip/Deliverable_2
+|\  
+| * 2949aa9 - Amalie Fyhn, 7 days ago : Added pathlib.path
+* | 8ee082e - Vanessa Tryba, 7 days ago : task 2 outline
+|/  
+*   9b48b13 - Amalie Fyhn, 7 days ago : Merge branch 'main' of https://github.com/vantryb87-blip/Deliverable_2
+|\  
+| *   b7459df - Vanessa Tryba, 7 days ago : Merge branch 'main' of https://github.com/vantryb87-blip/Deliverable_2
+| |\  
+| * | ec9a69c - Vanessa Tryba, 7 days ago : Data
+| * | e606d3a - Vanessa Tryba, 7 days ago : data mappe
+* | | bb58016 - Amalie Fyhn, 7 days ago : Rough plan
+| |/  
+|/|   
+* | 2f6db11 - Amalie Fyhn, 7 days ago : Ignores the data-folder
+|/  
+* 5bad001 - Amalie Fyhn, 7 days ago : Created files to work in on the tasks
+* ddfde36 - Amalie Fyhn, 7 days ago : Created file
+* 7b7c1fa - vantryb87-blip, 7 days ago : Initial commit
